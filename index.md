@@ -41,14 +41,14 @@ The paper situates this practice within histories of musical hacking and instrum
 ## Example bending session video
 The video shows a network bending session of a rhythmic DDSP model with use of a previously prepared _Bending Log_.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7mH7LqVvBSc?si=4zhFd8AL7RIuwypu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="100%" src="https://www.youtube.com/embed/7mH7LqVvBSc?si=4zhFd8AL7RIuwypu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
 ## Example model blending session video
 This video documents a process of _Model Blending_ two different DDSP models.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7mH7LqVvBSc?si=4zhFd8AL7RIuwypu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="100%" src="https://www.youtube.com/embed/7mH7LqVvBSc?si=4zhFd8AL7RIuwypu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
