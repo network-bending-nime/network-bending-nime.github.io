@@ -8,9 +8,23 @@ The paper situates this practice within histories of musical hacking and instrum
 
 ---
 
-## Example Bending Log
+## Bending session
+The video shows a network bending session of a rhythmic DDSP model with use of a previously prepared _Bending Log_.
 
-Bending Log created for the `drum.ts`, available in the Google Drive directory shared below.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7mH7LqVvBSc?si=4zhFd8AL7RIuwypu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
+## Model blending
+This video documents a process of _Model Blending_ two different DDSP models.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lWwkeamsNCk?si=gi9SZMH8TH5wCYIS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
+## Bending Log for drums.ts
+
+Bending Log created for the `drums.ts`, available in the Google Drive directory shared below.
 
 
 | id  | name                                                  | operation          | result                                                                                                                          |
@@ -38,20 +52,6 @@ Bending Log created for the `drum.ts`, available in the Google Drive directory s
 | 60  | pretrained.decoder.output_params.weight               | rolling            | spectral modeling style effects                                                                                                 |
 | 60  | pretrained.decoder.output_params.weight               | scaling            | scaling up – sinusoidal modeling, watery sounds<br>                                                                             |
 | 60  | pretrained.decoder.output_params.weight               | drawing            | adds narrow-band noise of different frequencies                                                                                 |
-
----
-
-## Example bending session video
-The video shows a network bending session of a rhythmic DDSP model with use of a previously prepared _Bending Log_.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7mH7LqVvBSc?si=4zhFd8AL7RIuwypu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
----
-
-## Example model blending session video
-This video documents a process of _Model Blending_ two different DDSP models.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lWwkeamsNCk?si=gi9SZMH8TH5wCYIS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
