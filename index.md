@@ -10,6 +10,9 @@ The paper situates this practice within histories of musical hacking and instrum
 
 ## Example Bending Log
 
+Bending Log created for the `drum.ts`, available in the Google Drive directory shared below.
+
+
 | id  | name                                                  | operation          | result                                                                                                                          |
 | --- | ----------------------------------------------------- | ------------------ | ------------------------------------------------------------------------------------------------------------------------------- |
 | 17  | pretrained.decoder.input_latent_bottleneck.0.bias     | roll to the right  | produce more harmonic and brighter timbres                                                                                      |
@@ -41,17 +44,33 @@ The paper situates this practice within histories of musical hacking and instrum
 ## Example bending session video
 The video shows a network bending session of a rhythmic DDSP model with use of a previously prepared _Bending Log_.
 
-<iframe width="100%" src="https://www.youtube.com/embed/7mH7LqVvBSc?si=4zhFd8AL7RIuwypu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7mH7LqVvBSc?si=4zhFd8AL7RIuwypu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
 ## Example model blending session video
 This video documents a process of _Model Blending_ two different DDSP models.
 
-<iframe width="100%" src="https://www.youtube.com/embed/7mH7LqVvBSc?si=4zhFd8AL7RIuwypu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lWwkeamsNCk?si=gi9SZMH8TH5wCYIS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-## Pd patch and external
+## Pd patch, modified nn~ external, models
 
-*(This section will be filled out later with details about the Pure Data patch and any relevant externals)*
+The Pd Network Bending patch can be found in the repository.
+
+https://github.com/network-bending-nime/network-bending-nime.github.io/blob/main/nime-network-bending.pd
+
+The following directory contains:
+- modified nn~ externals for multiple platforms
+- `drums.ts` model
+
+https://drive.google.com/drive/folders/1w9SJLuUZOYmRyn2HUhtEL3Z4BlanR4Rd?usp=drive_link
+
+In order to install nn~ external please refer to the original installaction instructions for Pure data.
+
+https://github.com/acids-ircam/nn_tilde
+
+You can find many compatible `.ts` models for example at RAVE models download page.
+
+https://acids-ircam.github.io/rave_models_download
