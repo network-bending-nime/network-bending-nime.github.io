@@ -18,7 +18,7 @@ The video shows a network bending session of a rhythmic DDSP model with use of a
 ## Model blending
 This video documents a process of _Model Blending_ two different DDSP models.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lWwkeamsNCk?si=gi9SZMH8TH5wCYIS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HdsGqlrhVws?si=qBmO2Z3iUEosO9X0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
