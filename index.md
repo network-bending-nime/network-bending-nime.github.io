@@ -22,6 +22,13 @@ This video documents a process of _Model Blending_ two different DDSP models.
 
 ---
 
+### Bending Tutorial
+A minimal version of a bending workshop described in the paper, in a video format.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RXl4NwG5go0?si=-cR-SRYHRq8txBDb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 ## Bending Log for drums.ts
 
 Bending Log created for the `drums.ts`, available in the Google Drive directory shared below.
