@@ -1,5 +1,13 @@
 # Network Bending as Circuit-Bending Inspired Live Neural Synthesis Hacking
 
+**Błażej Kotowski**
+<blazej.kotowski@upf.edu>
+Universitat Pompeu Fabra, Barcelona, Spain
+
+**Frederic Font**
+<frederic.font@upf.edu>
+Universitat Pompeu Fabra, Barcelona, Spain
+
 ## Abstract
 
 Circuit bending has long framed technical malfunction and misuse as sites of musical invention, enabling non-expert, hands-on engagement with electronic sound circuits through the practice of an immediate canvas. This paper articulates *Network Bending* as a circuit-bending–inspired approach to neural audio synthesis, making its connection to the tradition and ethos of circuit bending explicit. Network Bending is presented here as realtime, hands-on modification of neural network parameters—specifically weights and biases—during sound generation, where instability, breakdown, and opacity become compositional material.
